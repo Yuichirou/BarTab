@@ -1,27 +1,27 @@
 <!ENTITY prefwindow.title "BarTab 設定">
 <!ENTITY prefpane.title "BarTab 設定">
 <!ENTITY group.label "BarTab 設定">
-<!ENTITY restoredTabs.label "前回終了時のタブを表示する場合: ">
+<!ENTITY restoredTabs.label "前回終了時のタブを復元するとき: ">
 <!ENTITY restoredTabs.accesskey "R">
-<!ENTITY backgroundTabs.label "リンクから開かれて、まだ読んでいない新しいタブ: ">
+<!ENTITY backgroundTabs.label "タブをバックグラウンドで開いたとき: ">
 <!ENTITY backgroundTabs.accesskey "B">
 <!ENTITY loadTabs.label "読み込む (Firefox 初期状態)">
 <!ENTITY dontLoadTabs.label "待機させておく">
 <!ENTITY unloadAfterTimeout.label "しばらくタブを見なかった場合: ">
 <!ENTITY unloadAfterTimeout.accesskey "T">
-<!ENTITY doNothing.label "なにもしない (Firefox 初期状態)">
-<!ENTITY unloadAfter.label "時間が経ったら待機させる">
+<!ENTITY doNothing.label "何もしない (Firefox 初期状態)">
+<!ENTITY unloadAfter.label "時間が経ったらアンロードする">
 <!ENTITY timeoutSecs.label "秒">
 <!ENTITY timeoutMins.label "分">
 <!ENTITY timeoutHours.label "時間">
 <!ENTITY timeoutDays.label "日">
-<!ENTITY hostWhitelist.label "常に読み込んだままにしておくサイト:">
+<!ENTITY hostWhitelist.label "ページの読み込みを待機させないサイト:">
 <!ENTITY hostWhitelist.accesskey "H">
 <!ENTITY hostWhitelistRemove.label "削除">
 <!ENTITY hostWhitelistRemove.accesskey "-">
 <!ENTITY hostWhitelistAdd.label "追加">
 <!ENTITY hostWhitelistAdd.accesskey "+">
-<!ENTITY hostWhitelist.description "これはホスト名の一覧です。この一覧かタブのコンテキストメニューを利用して項目の追加と削除をしてください。">
+<!ENTITY hostWhitelist.description "これはホスト名の一覧です。この一覧かタブのコンテキストメニューを利用して項目を追加したり削除したりできます。">
 <!ENTITY loadOnSelect.label "待機中のタブに切り替えた場合:">
 <!ENTITY loadOnSelect.accesskey "S">
 <!ENTITY loadAfterAskingMe.label "読み込むかどうか尋ねる">
